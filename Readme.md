@@ -376,3 +376,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
+### 🙏 Credits & Acknowledgements
+
+This list builds upon the great work of others in the community. Special thanks to:
+Himahuja for the initial inspiration and list.
+vvignesh17 for their focused list on Indian institutions.
+All Contributors who help keep this list updated and accurate!
+
+<p align="center">
+<a href="#-awesome-research--corporate-internships-for-undergraduates-">Back to Top ⬆️</a>
+</p>
