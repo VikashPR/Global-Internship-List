@@ -160,6 +160,7 @@ Explore research opportunities at renowned universities and institutions across 
 | **University of Alberta Research Experience (UARE)** [<kbd>🔗</kbd>](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html) | Various                                        | Varies (Partner Unis preferred?)       | CAD $6,000 (total)   | 📅 Oct 20          |                                                                         |
 | **RTC Summer Research Program (Lunenfeld-Tanenbaum, UofT)** [<kbd>🔗</kbd>](http://research.lunenfeld.ca/rtc/DEFAULT.ASP?page=Summer%20Research%20Program) | Biomedical, Biostatistics, Biology             | Varies                                 | Varies               | 📅 Feb 28          | Link might need update, based at University of Toronto affiliated institute |
 | **Petro Jacyk Visiting Scholars (UofT)** [<kbd>🔗</kbd>](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships/) | Social Sciences, Humanities (Focus on Ukraine) | PG/Postdoc focus (check eligibility) | Varies (Fellowship)  | 📅 Feb 15          | Primarily for scholars, check UG possibility                        |
+| **Hanzilla Jobs - Canada Internships & New Grad Roles** [<kbd>🔗</kbd>](https://jobs.hanzilla.co/internships/) | Tech, finance, engineering, business, sciences | Students & recent grads seeking Canada roles | Varies | Rolling | Free daily-updated board for Canadian internships, co-ops, junior, and entry-level roles |
 
 #### 🇫🇷 France
 
