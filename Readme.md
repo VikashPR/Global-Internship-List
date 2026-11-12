@@ -328,6 +328,7 @@ Explore research opportunities at renowned universities and institutions across 
 | **Allen Institute for AI (AI2) Internships** [<kbd>🔗</kbd>](https://allenai.org/internships) | AI, ML, NLP, CV, Engg  | UG/Grad/PhD            | Paid          | Varies (Rolling?)  | Based in Seattle, USA; possible remote options                      |
 | **ICTS Long Term Visiting Students Program (India)** [<kbd>🔗</kbd>](https://www.icts.res.in/academic/long-term-visiting-student-program) | Theoretical Sci, Maths | UG/PG Students           | ₹5k-15k / mo  | Rolling            | Based in Bangalore, 1-2 semesters duration, open to International students |
 | **ICTS S.N. Bhatt Memorial Excellence Fellowship (India)** [<kbd>🔗</kbd>](https://www.icts.res.in/academic/summer-research-program) | Theoretical Sci, Maths | 3rd/4th/5th Year UG/Int. | ₹15,000 / mo  | 📅 Jan 24          | Based in Bangalore, 6-8 weeks duration                              |
+| **ProfScout** [<kbd>🔗</kbd>](https://profscout.com) | All fields             | Students                 | N/A (tool)    | Rolling            | Finds professors to cold-email for research positions, with verified emails. Freemium. |
 
 ---
 
